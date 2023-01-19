@@ -1,1 +1,9 @@
-site_name: My Docs
+site_name: Lol test
+site_url: https://loltest.github.com
+
+nav:
+  - Home: index.md
+  - About: about.md
+
+theme:
+    name: material
